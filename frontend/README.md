@@ -1,16 +1,14 @@
-# frontend
+# Frontend - BuildPrice
 
-A new Flutter project.
+Este é o frontend do BuildPrice, um aplicativo para orçamentos e planejamento de projetos residenciais.
 
-## Getting Started
+## Como rodar o frontend:
+1. Instale o Flutter: [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+2. No diretório `frontend/`, execute:
+   - `flutter pub get` para instalar as dependências.
+   - `flutter run` para rodar o aplicativo.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Estrutura do projeto:
+- `lib/`: Código Dart principal do aplicativo.
+- `android/`: Arquivos específicos do Android.
+- `ios/`: Arquivos específicos do iOS.
