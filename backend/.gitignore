@@ -1,0 +1,23 @@
+# Ignorar ambiente virtual
+venv/
+
+# Arquivos da IDE (VS Code, JetBrains)
+.vscode/
+.idea/
+
+# Arquivos de cache e compilação Python
+__pycache__/
+*.pyc
+
+# Arquivos de log
+*.log
+
+# Arquivo de configuração do ambiente virtual
+pyvenv.cfg
+
+# Banco de dados local, se houver
+*.db
+*.sqlite3
+
+# Outras pastas ou arquivos específicos que você não queira versionar
+*.DS_Store
